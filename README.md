@@ -1,8 +1,9 @@
 # High-throughput activity analysis of RNA-cleaving deoxyribozymes by DZ-seq
-**Supporting code**
 
+Source code used for the publication
 
 ##### Project structure
+
 ── DZ-seq/
     └── notebooks/                <- Jupyter notebooks for analysis of generated data and plotting figures
 
