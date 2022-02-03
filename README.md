@@ -1,6 +1,6 @@
-# High-throughput activity analysis of RNA-cleaving deoxyribozymes by DZ-seq
+# High-Throughput Activity profiling of RNA-Cleaving catalysts by Deoxyribozyme Sequencing (DZ-seq)
 
-Source code for publication **High-throughput activity analysis of RNA-cleaving deoxyribozymes by DZ-seq** 
+Source code for publication **[High-Throughput Activity profiling of RNA-Cleaving catalysts by Deoxyribozyme Sequencing (DZ-seq)](https://doi.org/10.1021/jacs.1c12489)** 
 by Maksim V. Sednev, Anam Liaqat and Claudia Höbartner
 
 ##### Project structure
